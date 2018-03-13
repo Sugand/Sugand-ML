@@ -1,0 +1,3 @@
+Due to huge file size, the datasets used for analysis couldn't be uploaded, hence have provided the URL.
+
+https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
